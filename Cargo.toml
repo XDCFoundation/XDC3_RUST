@@ -3,7 +3,7 @@ name = "xdc3_rust"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/XDCFoundation/xdc3_rust"
+repository = "https://github.com/XDCFoundation/XDC3_RUST"
 author = "'XDC-Foundation' => 'XFLW@xinfin.org'"
 description = "xdc3_rust API with support for smart contracts and XRC20"
 
