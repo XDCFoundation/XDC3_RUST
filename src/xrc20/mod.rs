@@ -1,0 +1,13 @@
+pub mod allowance;
+pub mod approve;
+pub mod balanceof;
+pub mod decimals;
+pub mod decrease_allowance;
+pub mod increase_allowance;
+pub mod name;
+pub mod symbol;
+pub mod total_supply;
+pub mod transfer_from;
+pub mod transfer_token;
+pub mod transfer_xdc;
+pub mod xdc_account;

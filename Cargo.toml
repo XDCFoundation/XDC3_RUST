@@ -1,0 +1,24 @@
+[package]
+name = "xdc3_rust"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/XDCFoundation/xdc3_rust"
+author = "'XDC-Foundation' => 'XFLW@xinfin.org'"
+description = "xdc3_rust API with support for smart contracts and XRC20"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+web3 = "0.17.0"
+tokio = { version= "1", features = ["full"] }
+hex-literal = "0.3"
+env_logger = "0.9"
+hex = "0.4"
+dotenv = "0.15.0"
+
+secp256k1 = "0.20.3"
+hdwallet = "0.3.0"
+hdwallet-bitcoin = "0.3.0"
+rand   = "0.8.4"
+
