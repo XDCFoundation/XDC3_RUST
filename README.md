@@ -1,6 +1,6 @@
 # xdc3_rust
 
-xdc3_rust API with support for smart contracts and XRC20.
+xdc3_rust SDK with support for smart contracts and XRC20.
 
 ## Usage
 
