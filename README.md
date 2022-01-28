@@ -16,8 +16,7 @@ Available Operations in XRC20:- 1.getName 2.getSymbol 3.getDecimal 4.getTotalSup
 ## Environment Variable
 
 Create a .env file in the root directory of the Rust project to put the wallet and endpoint information in like so:
-```APOTHEM_ADDRESS = wss://ws.apothem.network
-```
+```APOTHEM_ADDRESS = wss://ws.apothem.network```
 
 ## Example
 
