@@ -13,6 +13,12 @@ before Running The File enable cargo Extension in your file. EX: run Command ---
 
 Available Operations in XRC20:- 1.getName 2.getSymbol 3.getDecimal 4.getTotalSupply 5.getBalanceOf 6.getAllowance 7.getApprove 8.increaseAllowance 9.decreaseAllowance 10.transferfrom 11.transferToken 12.transferXdc
 
+## Environment Variable
+
+Create a .env file in the root directory of the Rust project to put the wallet and endpoint information in like so:
+```APOTHEM_ADDRESS = wss://ws.apothem.network
+```
+
 ## Example
 
     #![allow(unused_imports)]

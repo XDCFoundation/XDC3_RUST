@@ -6,7 +6,6 @@ mod lib;
 /// Impoting name module which consits token_name method.
 use lib::xrc20::name;
 
-
 #[allow(unused_must_use)]
 fn main() {
     // Taking input as a string from user.
