@@ -1,11 +1,11 @@
 [package]
 name = "xdc3_rust"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 license = "MIT"
 repository = "https://github.com/XDCFoundation/XDC3_RUST"
 author = "'XDC-Foundation' => 'XFLW@xinfin.org'"
-description = "xdc3_rust API with support for smart contracts and XRC20"
+description = "xdc3_rust SDK with support for smart contracts and XRC20"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
