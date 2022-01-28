@@ -7,7 +7,7 @@ xdc3_rust SDK with support for smart contracts and XRC20.
 First, add this to your `Cargo.toml`:
 ```toml
 [dependencies]
-xdc3_rust = "0.1.1"
+xdc3_rust = "0.1.2"
 ```
 before Running The File enable cargo Extension in your file. EX: run Command -----(cargo init) in Command Line Terminal after That Copy The Path And Goto The File.
 
