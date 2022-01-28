@@ -10,7 +10,8 @@ Add the following dependency to your `Cargo.toml`:
 xdc3_rust = "0.1.3"
 ```
 This SDK supports following Read & Write operations in XRC20:-
-``1.getName 
+“*”
+  1.getName 
   2.getSymbol 
   3.getDecimal 
   4.getTotalSupply 
@@ -21,7 +22,8 @@ This SDK supports following Read & Write operations in XRC20:-
   9.decreaseAllowance 
   10.transferfrom 
   11.transferToken 
-  12.transferXdc``
+  12.transferXdc
+“*”
 
 ## Environment Variable
 
