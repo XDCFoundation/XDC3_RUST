@@ -29,7 +29,7 @@ pub async fn allowance(
     let token_contract = Contract::from_json(
         web3s.eth(),
         contract_addr,
-        include_bytes!("../common/erc20_abi.json"),
+        include_bytes!("../common/xrc20_abi.json"),
     )
     .unwrap();
 
