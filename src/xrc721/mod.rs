@@ -1,0 +1,15 @@
+pub mod approve;
+pub mod balanceof;
+pub mod getapprove;
+pub mod isapprove;
+pub mod name;
+pub mod ownerof;
+pub mod safe_transferfrom;
+pub mod setapprove;
+pub mod support_interface;
+pub mod symbol;
+pub mod token_by_index;
+pub mod token_uri;
+pub mod tokenof_owner_byindex;
+pub mod total_supply;
+pub mod transfer_from;
