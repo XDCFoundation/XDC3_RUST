@@ -17,7 +17,7 @@ env_logger = "0.9"
 hex = "0.4"
 dotenv = "0.15.0"
 
-secp256k1 = "0.20.3"
+secp256k1 = "0.22.2"
 hdwallet = "0.3.0"
 hdwallet-bitcoin = "0.3.0"
 rand   = "0.8.4"
